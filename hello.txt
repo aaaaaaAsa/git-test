@@ -1,4 +1,4 @@
-hello,motherFucker
+hello.motherFucker
 second hello!
 third hello!
 第四行
